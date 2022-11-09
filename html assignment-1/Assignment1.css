@@ -1,0 +1,43 @@
+main {
+    width: 100%;
+}
+
+main section {
+    width: 100%
+}
+
+main section div {
+    width: 50%;
+}
+
+main img {
+    width: 300px;
+}
+
+.block {
+
+    width: 25%;
+    height: 16vh;
+    display: inline-block;
+}
+
+#text {
+    /* text-align: center;
+    padding: 1px;
+    margin: 1px;
+    margin-top: 1px;
+    top: -81px;
+    left: -47px; */
+    position: relative;
+    text-align: center;
+    vertical-align: top;
+    top: 43px;
+
+
+}
+
+#list {
+    position: relative;
+    top: -52px;
+    left: -22px;
+}
